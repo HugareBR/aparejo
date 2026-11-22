@@ -1,4 +1,4 @@
-# Aparejo
+<p align="center"><img src="docs/logo.png" alt="Aparejo" width="560"></p>
 
 **Per-game power tuning for the AYN Odin 3 (Armada OS), as a [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin.**
 
