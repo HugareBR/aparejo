@@ -1,0 +1,10 @@
+{
+  "name": "aparejo",
+  "version": "0.2.7",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@decky/api": "1.1.3",
+    "@decky/ui": "4.11.6"
+  }
+}
